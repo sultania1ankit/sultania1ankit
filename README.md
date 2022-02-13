@@ -17,17 +17,16 @@ Feel free to get in touch regrading any project or collab work realted to electr
 <br></br>
 <a href="https://github.com/sultania1ankit/"><img src="images/my_logos/hydro_scout_solid.png" width="70" height="70" align ="left" alt="hydro_scout" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <t></t>
-**Hydro Scout:** This system which allows for smooth water mangement in urban locations.
+**[Hydro Scout](https://github.com/sultania1ankit/):** This system which allows for smooth water mangement in urban locations.
 <br></br>
 <br></br>
 <a href="https://github.com/sultania1ankit/"><img src="images/my_logos/can_intro.png" width="110" height="70" align="left" alt="CAN_intro_thumbnail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**CAN Sniffers:** This can be used to process and filter real time data of a automotive CAN bus.\
+**[CAN Sniffers](https://github.com/sultania1ankit/):** This can be used to process and filter real time data of a automotive CAN bus.\
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;This can also be saved for later analysis.It uses a ESP32 and a CAN transceiver as a sniffer\
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;coupled with few python scripts to analyse Automotive CAN data.
 <br></br>
-<br></br>
 <a href="https://github.com/sultania1ankit/projects"><img src="images/my_logos/thumb_o_bold.png" width="70" height="70" align="left" alt="git_main_logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Projects:** This contains some of my work which i think can be useful for others.\
+**[Projects](https://github.com/sultania1ankit/projects):** This contains some of my work which i think can be useful for others.\
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;However it has not been modified, so you might have to put some effort. :hand_over_mouth:
 <br></br>
 <br></br>
