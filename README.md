@@ -23,7 +23,7 @@ This can be used over UART, TCP, UDP or any other protocol where the channel has
 <a href="https://github.com/sultania1ankit/"><img src="images/my_logos/can_intro.png" width="110" height="70" align="left" alt="CAN_intro_thumbnail" padding-right=150px padding-left=150px/></a>
 * **[CAN Sniffers](https://github.com/sultania1ankit/):** This can be used to process and filter real time data of a automotive CAN bus.Data can also be saved for later analysis.It uses a ESP32 and a CAN transceiver as a sniffer, coupled with few python scripts.
 <br></br><br></br>
-<a href="https://github.com/sultania1ankit/projects"><img src="images/my_logos/thumb_o_bold.png" width="70" height="70" align="left" padding-right=150px padding-left=150px alt="git_main_logo" /></a>
+<a href="https://github.com/sultania1ankit/projects"><img src="images/my_logos/thumb_o_bold.png" width="70" height="70" align="left" padding-right=150px  alt="git_main_logo" /></a>
 * **[Projects](https://github.com/sultania1ankit/projects):** This contains some of my work which i think can be useful for others. However it has not been modified, so you might have to put some effort.:sweat_smile:
 <br></br><br></br>
 ## Statistics
