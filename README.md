@@ -1,16 +1,14 @@
 # Welcome  :smiley:
-
-
+______
 >I am an Embedded Designer who likes to work on compelling projects or problems.\
 >Feel free to get in touch regrading some project or collab work in Electronics.
 
 <p align = "left" ><a href="http://linkedin.com/in/ankit-sultania-27942b114"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:sultania1ankit@gmail.com?subject=Mail From GitHub Profile"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;</p>
 
-<br></br>
-
+<t></t>
 ## My Work
-____________
+
 
 
 * **Hydro Scout:** This is a hardware which allows for very smooth water mangement in urban cities.
