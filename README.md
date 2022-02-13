@@ -23,13 +23,13 @@ This can be used over UART, TCP, UDP or any other protocol where the channel has
 <a href="https://github.com/sultania1ankit/"><img src="images/my_logos/can_intro.png" width="110" height="70" align="left" alt="CAN_intro_thumbnail" padding-right=150px padding-left=150px/></a>
 * **[CAN Sniffers](https://github.com/sultania1ankit/):** This can be used to process and filter real time data of a automotive CAN bus.Data can also be saved for later analysis.It uses a ESP32 and a CAN transceiver as a sniffer, coupled with few python scripts.
 <br></br><br></br>
-<a href="https://github.com/sultania1ankit/projects"><img src="images/my_logos/thumb_o_bold.png" width="70" height="70" align="left" padding-right=150px  alt="git_main_logo" /></a>
+<a href="https://github.com/sultania1ankit/projects"><img src="images/my_logos/thumb_o_bold.png" width="70" height="70" align="left" padding-right=150px padding-left=150px alt="git_main_logo" /></a>
 * **[Projects](https://github.com/sultania1ankit/projects):** This contains some of my work which i think can be useful for others. However it has not been modified, so you might have to put some effort.:sweat_smile:
 <br></br><br></br>
 ## Statistics
 <t></t>
-<a href="https://github.com/sultania1ankit"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultania1ankit&layout=default&langs_count=10&hide_border=true&theme=radical&custom_title=Languages+used&hide=c%2B%2B" alt="Ankit's language stats" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/sultania1ankit"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sultania1ankit&show_icons=true&hide_border=true&line_height=33&theme=radical&custom_title=Git Stats" alt="Ankit's github stats" /></a>
+<a href="https://github.com/sultania1ankit"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultania1ankit&layout=compact&langs_count=10&hide_border=true&theme=radical&custom_title=Languages+used&hide=c%2B%2B" alt="Ankit's language stats" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/sultania1ankit"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sultania1ankit&show_icons=true&hide_border=true&line_height=23&theme=radical&custom_title=Git Stats" alt="Ankit's github stats" /></a>
 <br></br>
 ## Thank you for visiting ! :smiley:
 
