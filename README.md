@@ -28,7 +28,7 @@ This can be used over UART, TCP, UDP or any other protocol where the channel has
 <br></br><br></br>
 ## Statistics
 <t></t>
-<a href="https://github.com/sultania1ankit"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultania1ankit&layout=compact&langs_count=10&hide_border=true&theme=radical&custom_title=Languages+used&hide=c%2B%2B" alt="Ankit's language stats" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sultania1ankit"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sultania1ankit&show_icons=true&hide_border=true&line_height=23&theme=radical&custom_title=Git Stats" alt="Ankit's github stats" /></a>
+<a href="https://github.com/sultania1ankit"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultania1ankit&layout=compact&langs_count=10&hide_border=false&theme=radical&custom_title=Languages+used&hide=c%2B%2B" alt="Ankit's language stats" /></a>&nbsp;&nbsp;<a href="https://github.com/sultania1ankit"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sultania1ankit&show_icons=true&hide_border=false&line_height=23&theme=radical&custom_title=Git Stats" alt="Ankit's github stats" /></a>
 <br></br>
 ## Thank you for visiting ! :smiley:
 
