@@ -32,8 +32,6 @@ This can be used over UART, TCP, UDP or any other protocol where the channel has
 <br></br>
 ## Thank you for visiting ! :smiley:
 
-![This is a image]("https://github.com/sultania1ankit/projects/blob/master/images/Drone.jpg")
-<br></br>
 ![This is a image](https://github.com/sultania1ankit/projects/blob/master/images/Drone.jpg)
 
 
