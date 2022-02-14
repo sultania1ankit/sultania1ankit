@@ -16,14 +16,14 @@ Feel free to get in touch regrading any project or collab work realted to electr
 This can be used over UART, TCP, UDP or any other protocol where the channel has sufficient bitrate. 
 <br></br>
 
-<a href="https://github.com/sultania1ankit/hydro_scout/"><img src="images/my_logos/hydro_scout_solid.png" width="70" height="70" align ="left" padding-right=150px padding-left=150px alt="hydro_scout_logo" /></a>
+<a href="https://github.com/sultania1ankit/hydro_scout/"><img src="https://github.com/sultania1ankit/projects/blob/master/images/my_icons/hydro_scout_solid.png" width="70" height="70" align ="left" padding-right=150px padding-left=150px alt="hydro_scout_logo" /></a>
 * **[Hydro Scout](https://github.com/sultania1ankit/hydro_scout/):** This system which allows for smooth water mangement in urban locations.
 <br></br><br></br>
 
-<a href="https://github.com/sultania1ankit/CAN"><img src="images/my_logos/can_intro.png" width="110" height="70" align="left" alt="CAN_intro_thumbnail" padding-right=150px padding-left=150px/></a>
+<a href="https://github.com/sultania1ankit/CAN"><img src="https://github.com/sultania1ankit/projects/blob/master/images/my_icons/can_intro.png" width="110" height="70" align="left" alt="CAN_intro_thumbnail" padding-right=150px padding-left=150px/></a>
 * **[CAN Sniffers](https://github.com/sultania1ankit/CAN):** This can be used to process and filter real time data of a automotive CAN bus.Data can also be saved for later analysis.It uses a ESP32 and a CAN transceiver as a sniffer, coupled with few python scripts.
 <br></br><br></br>
-<a href="https://github.com/sultania1ankit/projects"><img src="images/my_logos/thumb_o_bold.png" width="70" height="70" align="left" padding-right=150px padding-left=150px alt="git_main_logo" /></a>
+<a href="https://github.com/sultania1ankit/projects"><img src="https://github.com/sultania1ankit/projects/blob/master/images/my_icons/thumb_o_bold.png" width="70" height="70" align="left" padding-right=150px padding-left=150px alt="git_main_logo" /></a>
 * **[Projects](https://github.com/sultania1ankit/projects):** This contains some of my work which i think can be useful for others. However it has not been modified, so you might have to put some effort.:sweat_smile:
 <br></br><br></br>
 ## Statistics
@@ -31,7 +31,3 @@ This can be used over UART, TCP, UDP or any other protocol where the channel has
 <a href="https://github.com/sultania1ankit"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultania1ankit&layout=default&langs_count=3&hide_border=false&theme=radical&custom_title=Languages+used&hide=c%2B%2B" alt="Ankit's language stats" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/sultania1ankit"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sultania1ankit&show_icons=true&hide_border=false&line_height=26&theme=radical&custom_title=Git Stats" alt="Ankit's github stats" /></a>
 <br></br>
 ## Thank you for visiting ! :smiley:
-
-![This is a image](https://github.com/sultania1ankit/projects/blob/master/images/Drone.jpg)
-
-
